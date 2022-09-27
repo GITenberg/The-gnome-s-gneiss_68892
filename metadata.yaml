@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '53216'
     url: http://www.gutenberg.org/2009/agents/53216
     wikipedia: https://en.wikipedia.org/wiki/Alex_Schomburg
+covers:
+- cover_type: archival
+  image_path: 68892-h/images/cover.jpg
 creator:
   author:
     agent_name: Crossen, Kendell Foster
@@ -25,6 +28,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/52728
     wikipedia: https://en.wikipedia.org/wiki/Kendell_Foster_Crossen
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68892#The-gnome-s-gneiss
 gutenberg_issued: '2022-09-01'
 identifiers:
   gutenberg: '68892'
